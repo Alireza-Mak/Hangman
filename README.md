@@ -40,7 +40,7 @@ Install my-project:
 
 ```bash
   Run the code with the following command:
-  python '.\main.py'
+  python main.py
 ```
 
 
